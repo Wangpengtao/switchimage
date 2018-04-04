@@ -13,6 +13,7 @@
 		77132FD0206CB13B007312F8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 77132FCF206CB13B007312F8 /* Assets.xcassets */; };
 		77132FD3206CB13B007312F8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 77132FD1206CB13B007312F8 /* LaunchScreen.storyboard */; };
 		77132FD6206CB13B007312F8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 77132FD5206CB13B007312F8 /* main.m */; };
+		77132FE120721A09007312F8 /* SwitchImageAnimationView.m in Sources */ = {isa = PBXBuildFile; fileRef = 77132FE020721A09007312F8 /* SwitchImageAnimationView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		77132FD2206CB13B007312F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		77132FD4206CB13B007312F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		77132FD5206CB13B007312F8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		77132FDF20721A09007312F8 /* SwitchImageAnimationView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SwitchImageAnimationView.h; sourceTree = "<group>"; };
+		77132FE020721A09007312F8 /* SwitchImageAnimationView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SwitchImageAnimationView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				77132FC7206CB13B007312F8 /* AppDelegate.m */,
 				77132FC9206CB13B007312F8 /* ViewController.h */,
 				77132FCA206CB13B007312F8 /* ViewController.m */,
+				77132FDF20721A09007312F8 /* SwitchImageAnimationView.h */,
+				77132FE020721A09007312F8 /* SwitchImageAnimationView.m */,
 				77132FCC206CB13B007312F8 /* Main.storyboard */,
 				77132FCF206CB13B007312F8 /* Assets.xcassets */,
 				77132FD1206CB13B007312F8 /* LaunchScreen.storyboard */,
@@ -143,6 +148,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				77132FCB206CB13B007312F8 /* ViewController.m in Sources */,
+				77132FE120721A09007312F8 /* SwitchImageAnimationView.m in Sources */,
 				77132FD6206CB13B007312F8 /* main.m in Sources */,
 				77132FC8206CB13B007312F8 /* AppDelegate.m in Sources */,
 			);
